@@ -54,14 +54,17 @@ void loop() {
 } 
 ```
 ## CIRCUIT DIAGRAM:
-![image](https://github.com/user-attachments/assets/37012881-db28-4524-b779-d37e643d2c53)
+<img width="707" height="499" alt="image" src="https://github.com/user-attachments/assets/acb6c447-aed7-4884-85e2-2a4a19bcd17d" />
+
 
 ## OUTPUT:
 OFF:
-![image](https://github.com/user-attachments/assets/0cb4f90f-75b6-4efc-bea5-fdda060861d3)
+<img width="1387" height="973" alt="Screenshot 2025-09-23 112914" src="https://github.com/user-attachments/assets/817e5691-69a9-431a-9535-aa934a805462" />
+
 
 ON:
-![image](https://github.com/user-attachments/assets/57912b70-d73b-4961-9c23-5ba925799f48)
+<img width="1391" height="973" alt="Screenshot 2025-09-23 112952" src="https://github.com/user-attachments/assets/50540216-8019-4a16-a28f-97b8bbc18cd3" />
+
 
 
 ## RESULT:
